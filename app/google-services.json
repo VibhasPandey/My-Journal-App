@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "528992369087",
+    "firebase_url": "https://myjournal-5c937-default-rtdb.firebaseio.com",
+    "project_id": "myjournal-5c937",
+    "storage_bucket": "myjournal-5c937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528992369087:android:8f95efa83099204a0f490a",
+        "android_client_info": {
+          "package_name": "com.example.myjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPE49eta657MG-IAUScE9ye9Od6FPe1Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
